@@ -94,3 +94,20 @@ section {
     font-weight: 800;
     color: #fff;
 }
+
+
+.text_little {
+    text-shadow: 2px 2px 2px #444444;
+}
+
+.text_big {
+    text-shadow: 7px 8px 6px #444444;
+}
+
+.text_color {
+    text-shadow: 7px 8px 6px #d64d17;
+}
+
+.text_multi {
+    text-shadow: 2px 2px 2px #444444, 7px 8px 6px #d64d17 ;
+}
